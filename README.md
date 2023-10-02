@@ -48,7 +48,7 @@ int main() {
 ### Compilation
 To compile the program, you can use the following command (assuming `gcc` is installed):
 ```sh
-gcc -o connectFour main.c slist.c
+gcc main.c slist.c -o connectFour 
 ```
 
 Here, `main.c` and `slist.c` are the filenames of your C code. Run the generated executable `connectFour` to play the game.
