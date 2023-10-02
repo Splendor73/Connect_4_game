@@ -60,8 +60,3 @@ Here, `main.c` and `slist.c` are the filenames of your C code. Run the generated
 - Follow the on-screen prompts to input your moves.
 - The game will declare a winner or a draw accordingly.
 - Choose to replay or quit the game when prompted.
-
-### Contribution
-Feel free to fork this project and enhance it. Pull requests are welcome.
-
-Remember to maintain the `README.md` file as clearly and accurately as possible if you make any changes or enhancements to the project.
